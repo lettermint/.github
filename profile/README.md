@@ -1,7 +1,7 @@
 # Welcome to Lettermint's GitHub! 🍃✉️
 
-![logo](https://github.com/user-attachments/assets/27404464-fd24-4795-89f4-21ba46ddf3b7#gh-dark-mode-only)
-![logo](https://github.com/user-attachments/assets/a693dde9-fb21-4b2c-92ef-78d8c58933f9#gh-light-mode-only)
+![logo|100](https://github.com/user-attachments/assets/78ea3a14-6465-4334-9bb5-e79493913e99#gh-light-mode-only)
+![logo|100](https://github.com/user-attachments/assets/d49938b6-5421-4011-a72f-5a6e66bd0f27#gh-dark-mode-only)
 
 ## About Lettermint
 
@@ -13,8 +13,6 @@ Based in Europe, we ensure your transactional emails are secure, reliable, and a
 - [Website](https://www.lettermint.com)
 - [X](https://x.com/lettermintco)
 - [Bluesky](https://bsky.app/profile/lettermint.co)
-
-
 
 <!--
 
