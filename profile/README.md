@@ -6,11 +6,12 @@
 ## About Lettermint
 
 ***Never worry about email delivery again!***  
-Based in Europe, we ensure your transactional emails are secure, reliable, and always reach your customers.  
+**Based in Europe**, we ensure your transactional emails are secure, reliable, and always reach your customers.  
 
 ## Connect With Us
 
-- [Website](https://www.lettermint.com)
+- [Website](https://lettermint.com)
+- [Documentation](https://docs.lettermint.com)
 - [X](https://x.com/lettermintco)
 - [Bluesky](https://bsky.app/profile/lettermint.co)
 
