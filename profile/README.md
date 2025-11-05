@@ -10,8 +10,8 @@
 
 ## Connect With Us
 
-- [Website](https://lettermint.com)
-- [Documentation](https://docs.lettermint.com)
+- [Website](https://lettermint.co)
+- [Documentation](https://docs.lettermint.co)
 - [X](https://x.com/lettermintco)
 - [Bluesky](https://bsky.app/profile/lettermint.co)
 
